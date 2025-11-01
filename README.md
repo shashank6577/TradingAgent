@@ -153,5 +153,7 @@ Licensed under the **Apache 2.0 License**. See [LICENSE](LICENSE) for details.
 ## 📬 Contact
 
 **Shashank Sharma** • [GitHub @shashank6577](https://github.com/shashank6577) • [your.email@example.com](mailto:your.email@example.com)
+**Shubham Kumar** • [GitHub @shubhamdev-code](https://github.com/shubhamdev-code) • [shubhamkrs@gmail.com](mailto:shubhamkrs@gmail.com)
 
 Project: [https://github.com/shashank6577/TradingAgent](https://github.com/shashank6577/TradingAgent)
+
