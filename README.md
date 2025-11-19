@@ -92,7 +92,7 @@ A personal finance and trading assistant powered by the Google AI Developer Kit 
 Set required environment variables before launching the agent:
 
 ```bash
-export GOOGLE_API_KEY='AIzaSyBIkjwtklCtLFX3TMeqWICyVzjQh0lFibc'
+export GOOGLE_API_KEY='Put your google API key here'
 export FI_MCP_PORT=8080
 ```
 
@@ -183,3 +183,4 @@ Licensed under the **Apache 2.0 License**. See [LICENSE](LICENSE) for details.
 **Shashank Sharma** • [GitHub @shashank6577](https://github.com/shashank6577) • [your.email@example.com](mailto:your.email@example.com)
 
 Project: [https://github.com/shashank6577/TradingAgent](https://github.com/shashank6577/TradingAgent)
+
